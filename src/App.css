@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  padding-top: 32px;
 }
 
 .App-logo {
@@ -30,4 +31,12 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.blog {
+  max-width: 600px;
+  border: 1px solid #ccc;
+  box-shadow: 0 2px 5px #ccc;
+  margin: 0 auto;
 }
